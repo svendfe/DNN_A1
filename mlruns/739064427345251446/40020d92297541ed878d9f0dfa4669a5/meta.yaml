@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/federicosvendsen/Documents/UPM/NN%20%26%20DL/Assignment/mlruns/739064427345251446/40020d92297541ed878d9f0dfa4669a5/artifacts
+end_time: 1763040145349
+entry_point_name: ''
+experiment_id: '739064427345251446'
+lifecycle_stage: active
+run_id: 40020d92297541ed878d9f0dfa4669a5
+run_name: 'R-16. Best result of 15 with more epochs '
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763040078584
+status: 3
+tags: []
+user_id: federicosvendsen

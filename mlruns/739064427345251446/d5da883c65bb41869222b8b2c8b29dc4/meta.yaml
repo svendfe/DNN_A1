@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/federicosvendsen/Documents/UPM/NN%20%26%20DL/Assignment/mlruns/739064427345251446/d5da883c65bb41869222b8b2c8b29dc4/artifacts
+end_time: 1763040026629
+entry_point_name: ''
+experiment_id: '739064427345251446'
+lifecycle_stage: active
+run_id: d5da883c65bb41869222b8b2c8b29dc4
+run_name: R-15. Adding activation inside?
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763039986961
+status: 3
+tags: []
+user_id: federicosvendsen

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/federicosvendsen/Documents/UPM/NN%20%26%20DL/Assignment/mlruns/739064427345251446/3580e60ea428484085882debdab3cc14/artifacts
+end_time: 1763039294495
+entry_point_name: ''
+experiment_id: '739064427345251446'
+lifecycle_stage: active
+run_id: 3580e60ea428484085882debdab3cc14
+run_name: R-15. Going back to our best result so far R-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763039240903
+status: 3
+tags: []
+user_id: federicosvendsen

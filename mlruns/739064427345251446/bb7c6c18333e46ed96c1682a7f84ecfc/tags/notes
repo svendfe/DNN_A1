@@ -1,0 +1,1 @@
+Model reached 90% accuracy but shows signs of overfitting (val_loss increasing after epoch 8).

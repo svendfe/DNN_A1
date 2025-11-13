@@ -1,0 +1,20 @@
+artifact_path: file:///Users/federicosvendsen/Documents/UPM/NN%20%26%20DL/Assignment/mlruns/739064427345251446/models/m-033936a61c0c4755ba49d6d0e07f4e9f/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.12.0
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.11.14
+mlflow_version: 3.6.0
+model_id: m-033936a61c0c4755ba49d6d0e07f4e9f
+model_size_bytes: 8492850
+model_uuid: m-033936a61c0c4755ba49d6d0e07f4e9f
+prompts: null
+run_id: 820927b42caf450bb753318cfdd4284e
+utc_time_created: '2025-11-13 13:53:34.454528'
